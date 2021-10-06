@@ -23,7 +23,7 @@
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
 
 # Kurulum Glitch
-* İlk [Glitch](https://nodejs.org/en/) web sayfasına git.
+* İlk [Glitch](https://glitch.com) web sayfasına git.
 * İstediğin hesabın oturumunu aç.
 * Bu sayfanın linkini koypaya.
 * Glitch sayfasına **New Project** butonuna bas.
