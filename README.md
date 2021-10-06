@@ -2,8 +2,7 @@
 
 
  - [Discord Kayıt Bot](https://github.com/GweepCreative/v13-register-bot)
-      - [Pc Kurulum](#kurulum)
-      - [Glitch Kurulum](#Glitch)
+      - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
       - [FAQ](#faq)
@@ -14,7 +13,7 @@
    </a>
 </div>
 
-# PC Kurulum
+# Kurulum PC
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 * Bu projeyi zip halinde indir.
 * Herhangi bir klasöre zipi çıkart.
@@ -23,7 +22,7 @@
 * ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
 
-# Glitch Kurulum
+# Kurulum Glitch
 * İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/kayitbot-v13) seni otomatik olarak proje sayfasına gönlendiricek.
 * Daha sonra `.env`dosyasındaki bilgileri doldur.
 * Kurulum bittikten sonra bot otomatik başlatılacaktır.
