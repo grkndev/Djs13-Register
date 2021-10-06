@@ -2,8 +2,8 @@
 
 
  - [Discord Kayıt Bot](https://github.com/GweepCreative/v13-register-bot)
-      - [Pc Kurulum](#pc)
-      - [Glitch Kurulum](#glitch)
+      - [Pc Kurulum](#kurulum)
+      - [Glitch Kurulum](#Glitch)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
       - [FAQ](#faq)
