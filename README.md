@@ -3,7 +3,7 @@
 
  - [Discord Kayıt Bot](https://github.com/GweepCreative/v13-register-bot)
       - [Kurulum](#kurulum-pc)
-      - [İçerikler](#İçerikler)
+      - [İçerikler](#icerikler)
       - [İletişim](#İletişim)
       - [FAQ](#faq)
 
