@@ -20,7 +20,7 @@
 * Daha sonra `ayarlar.json` dosyasındaki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
+* Kurulum bittikten sonra ```node index.js``` yaz ve botu başlat.
 
 # Kurulum Glitch
 * İlk olarak [Buraya Tıkla](https://glitch.com/edit/#!/remix/kayitbot-v13) seni otomatik olarak proje sayfasına gönlendiricek.
