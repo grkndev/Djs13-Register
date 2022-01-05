@@ -21,7 +21,7 @@ exports.run = async (client, message, args) => {
     if(!kayıtsızrol) return message.channel.send({content:`Bu komutu kullanmak için önce kayıtsız rolünü ayarlayın \`${prefix}kayıtsız-rol ayarla @rol\``});
     if(!yetkirol) return message.channel.send({content:`Bu komutu kullanmak için önce yetkili rolünü ayarlayın \`${prefix}yetkili-rol ayarla @rol\``});
     if(!member) return message.channel.send({content:`Lütfen Bir Kullanıcı belirt`});
-    if(!member.roles.cache.has(kayıtrol)) return message.channel.send({content:`Lütfen Bir Kullanıcı belirt`});
+    if(!member.roles.cache.has(kayıtsızrol)) return message.channel.send({content:`Lütfen Bir Kullanıcı belirt`});
     if(member.roles.cache.has(jailrol)) return  message.channel.send({content:`Bu kullanıcı jailde`});
 
     await member.roles.add(kayıtrol);
